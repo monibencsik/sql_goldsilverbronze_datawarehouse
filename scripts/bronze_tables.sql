@@ -2,6 +2,8 @@
 =====================================================
 Create Bronze tables
 =====================================================
+Purpose:
+This script creates the new tables within the bronze database after checking if it already exists. 
 */
 
 USE bronze;
